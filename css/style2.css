@@ -204,7 +204,8 @@ p {
   padding-bottom: 10px;
   background: #FFF;
   box-shadow: 0 0 20px rgba(0, 0, 0, 0.05);
-  min-height: 200px; }
+  min-height: 300px; 
+vertical-align: middle}
   .tile .icon {
     padding-top: 10px;
     width: 50px;
